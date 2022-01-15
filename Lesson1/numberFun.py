@@ -1,0 +1,21 @@
+import random
+num1 = random.randrange(1,100)
+num2 = random.randrange(1,100)
+print("First number= " + str(num1))
+print("Second number= " + str(num2))
+print(str(num1) + " / " + str(num2) + " = " + str((num1 / num2)))
+print(str(num1) + " // " + str(num2) + " = " + str((num1 // num2)))
+print(str(num1) + " % " + str(num2) + " = " + str((num1 % num2)))
+print(str(num1) + " + " + str(num2) + " = " + str((num1 + num2)))
+print(str(num1) + " - " + str(num2) + " = " + str((num1 - num2)))
+print(str(num1) + " * " + str(num2) + " = " + str((num1 * num2)))
+NUMBER2 = 25
+num2 = NUMBER2
+print("First number= " + str(num1))
+print("Second number= " + str(num2))
+print(str(num1) + " / " + str(num2) + " = " + str((num1 / num2)))
+print(str(num1) + " // " + str(num2) + " = " + str((num1 // num2)))
+print(str(num1) + " % " + str(num2) + " = " + str((num1 % num2)))
+print(str(num1) + " + " + str(num2) + " = " + str((num1 + num2)))
+print(str(num1) + " - " + str(num2) + " = " + str((num1 - num2)))
+print(str(num1) + " * " + str(num2) + " = " + str((num1 * num2)))
