@@ -12,7 +12,7 @@ daysToWeekend = 6 - dayOfWeek
 print("There are ", daysToWeekend-1, " days until the weekend")
 # flag to only print 1 quote in for loop
 quotePrinted = "false"
-for left in weekDays[dayOfWeek:daysToWeekend]:
+for left in weekDays[dayOfWeek:6]:
     if today == "Sunday" and quotePrinted == "false":
         print(left, " nothing on the docket!")
         quotePrinted="true"
