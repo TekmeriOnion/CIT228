@@ -1,0 +1,5 @@
+In Python you can model real world systems, entities, and relationships.
+In Python you can store, analyze, process, and visualize data retrieved from elsewhere.
+In Python you can automate routine processes and calculations.
+In Python you can conduct textual analysis.
+In Python you can read and write to files of a variety of formats.

@@ -1,0 +1,12 @@
+{
+    "break": "a command used to stop a while loop under certain conditions so it does not repeat infinitely",
+    "dictionary": "an unordered data type consisting of a collection of key-value pairs",
+    "for loop": "a construct that performs an iterative set of tasks a discrete number of times",
+    "index": "a numerical value corresponding to a specific position within an ordered data structure like a string or list",
+    "list": "ordered python data type that stores a mutable set of values and which allows duplicate entries",
+    "modulo": "a mathematical operation using the percent sign which returns the remainder yielded by dividing one integer by another",
+    "set": "unordered python data type which is mutable but does not allow duplicate entries",
+    "slicing": "a method for accessing specific portions of lists or strings",
+    "string": "a data type used for storing alphanumeric sequences as plain text",
+    "while loop": "a construct that performs an iterative set of tasks as long as specified conditions remain true"
+}
