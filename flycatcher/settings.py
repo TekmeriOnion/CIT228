@@ -18,7 +18,7 @@ class Settings:
 
         # Plant settings
         self.plant_count = 3
-        self.plant_speed = 1
+        self.plant_speed = 2
         
         # Scoring
         self.fly_points = 100

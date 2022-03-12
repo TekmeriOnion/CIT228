@@ -132,6 +132,7 @@ class Flycatcher:
                     self.flies.remove(fly)
                 else:
                     self.stats.game_active = False
+                    self.settings.plant_count = 3
                     self.settings.lastFly = 0
                     pygame.mouse.set_visible(True)
 
